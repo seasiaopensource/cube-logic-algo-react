@@ -1,0 +1,15 @@
+{
+  "name": "rubiks-cube-algo-react",
+  "version": "1.0.0",
+  "description": "cube logic",
+  "repository": "https://github.com/seasiaopensource/rubik-cube-react",
+  "author": "cube",
+  "license": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-modules --es-module-specifier-resolution=node --experimental-worker src/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
