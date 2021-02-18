@@ -2,7 +2,7 @@
   "name": "rubiks-cube-algo-react",
   "version": "1.0.0",
   "description": "cube logic",
-  "repository": "https://github.com/seasiaopensource/rubik-cube-react",
+  "repository": "https://github.com/seasiaopensource/cube-logic-algo-react",
   "author": "cube",
   "license": "",
   "main": "src/index.js",
